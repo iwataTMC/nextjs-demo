@@ -1,0 +1,5 @@
+- Front-end
+  - Next.js (TypeScript)
+  - Tailwind CSS
+- Back-end
+  - FastAPI (Python)
